@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Amia Little"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,8 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### my answer  
+I attended High School in Los Angeles, California.I attended Susan Dorsey Miller High School.I graduated from Susan Miller Dorsey High School.I graduated in the summer of 2015.Im not a big fan of math and I believe it is much harder than English. Ive done much better in english than math. Ive done pretty well in all subjects except math. History is the subject I do best in.
   
 
      
@@ -25,14 +26,16 @@ Where did you attend High School, and did you graduate? Compare english class to
 ## Your computer and your and its capability?  
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
-### my answer   
+### my answer  
+I own an Hp Laptop. On a scale from one to ten I rate my computer skills at a decent seven and a half. Im not a geek but i can operate a computer pretty well. I have wifi at home, I also have wifi on my phone. 
   
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
-### my answer     
+### my answer 
+My name is Amia which is pronounced (UH-MEEAH) although most cant pronounce it. Due to most not being able to pronounce it correctly I like to go by Mia (MEE-UH). I prefer for my class mates to call me Mia as every-one in my family does as well as my other peers etc.
   
    
  
@@ -43,7 +46,8 @@ What name do you prefer to be called by your classmates and instructor, if your 
 ## Aspirations?   
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
-### my answer     
+### my answer
+I plan to achieve many things in life.To start off id like to become a nurse, work in the labor and delivery area for a few years and then venture off either into law or maybe going back to school to obtain a phd. While doing all of that i plan to venture into real estate and air bnb. The college subject with the greatest interest to me would be history and spanish. As I had mentioned earlier I love history and intend to learn as much as possible therefore taking a coarse would be of assistance to me. I would take spanish due to the fact that Im a portion of latina and my mother being complely fluent yet i cant fully speak it so I want to learn fluently. Im trying to get my degree in nursing, become an RN eventually as my start.
   
    
  
@@ -54,7 +58,8 @@ What do you want to achieve in life?  What college subject do you think would be
 ## Past adventures?  
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
-### my answer     
+### my answer 
+I have been to Mexico, but some may call that the same as U.S soil.I have also been to puerto rico and Hawaii but they are now a part of the united states. I want to visit Africa as well as Europe, and The Bahamas which I will be visiting very soon, maybe I can bring you one of their beers. I havde never been in the military I was going to go just a few months ago. I have two children and decided it wasnt the best moment. I would join the army, navy,coast guard,or airspace. I come from a long history of military family members and its just something peope do in my family with honor.
   
    
   
@@ -67,7 +72,8 @@ Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a gene
 What grade do you need to attain in stats to not upset your future plans, What is your plan?  
  
 
-### my answer     
+### my answer   
+I took math 115. I didnt know that I honestly I am just taking it because I am required to in order to obtain my degree.I need atleast a C. My plan is to become a registered nurse. I plan to work in the labor and delivery field of the hospital and care for the newborns and their mothers. 
   
    
  
